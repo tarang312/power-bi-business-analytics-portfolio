@@ -50,17 +50,17 @@ The main objectives of this project are:
 
 ---
 
-# 📊 Power BI Features Used
+# Power BI Features Used
 
 The project demonstrates several Power BI capabilities for interactive financial and strategic analysis.
 
-## 🎛️ Interactive Slicers
+## Interactive Slicers
 
 - **Country Slicer** – Filter the report by country
 - **Company Slicer** – Analyze individual companies
 - **Opportunity Category Slicer** – Filter companies by High, Medium, or Low opportunity
 
-## 📈 Visualizations
+## Visualizations
 
 - **Clustered Bar Charts** – Compare financial metrics such as Sales vs Profit
 - **Horizontal Bar Charts** – Compare countries and companies
@@ -70,17 +70,6 @@ The project demonstrates several Power BI capabilities for interactive financial
 - **Tables** – Display detailed company and country-level metrics
 - **KPI Cards** – Highlight key financial indicators
 - **Interactive Filtering** – Dynamically update visuals based on selections
-
-## 🔄 Interactivity
-
-The report allows users to:
-
-- Filter by country
-- Filter by company
-- Analyze opportunity categories
-- Compare financial metrics
-- Explore geographical distributions
-- Drill down from global analysis to individual companies
 
 ---
 
@@ -104,7 +93,7 @@ The Power BI report contains five analytical pages covering global company perfo
 
 ---
 
-# 📌 Project Outcome
+# Project Outcome
 
 This project demonstrates how Power BI can transform a large global-company dataset into an interactive **financial and strategic decision-support system**.
 
@@ -123,7 +112,7 @@ The project therefore demonstrates practical application of:
 
 ---
 
-# 🔄 Analysis Workflow
+# Analysis Workflow
 
 ```text
 Global 2000 Dataset
