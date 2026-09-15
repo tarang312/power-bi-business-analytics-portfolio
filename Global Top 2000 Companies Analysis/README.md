@@ -76,6 +76,79 @@ The project also uses an **Opportunity Score** to classify companies into:
 
 ---
 
+# 📊 Power BI Features Used
+
+The project demonstrates several Power BI capabilities for interactive financial and strategic analysis.
+
+## 🎛️ Interactive Slicers
+
+- **Country Slicer** – Filter the report by country
+- **Company Slicer** – Analyze individual companies
+- **Opportunity Category Slicer** – Filter companies by High, Medium, or Low opportunity
+
+## 📈 Visualizations
+
+- **Clustered Bar Charts** – Compare financial metrics such as Sales vs Profit
+- **Horizontal Bar Charts** – Compare countries and companies
+- **Treemap** – Visualize company-level financial contribution
+- **Donut/Pie Charts** – Show financial ratio distributions
+- **Geographical Map** – Visualize the global distribution of companies
+- **Tables** – Display detailed company and country-level metrics
+- **KPI Cards** – Highlight key financial indicators
+- **Interactive Filtering** – Dynamically update visuals based on selections
+
+## 🔄 Interactivity
+
+The report allows users to:
+
+- Filter by country
+- Filter by company
+- Analyze opportunity categories
+- Compare financial metrics
+- Explore geographical distributions
+- Drill down from global analysis to individual companies
+
+---
+
+# 🖼️ Dashboard Preview
+
+The Power BI report contains five analytical pages covering global company performance, country-level economic dominance, profitability and efficiency, company-level comparisons, and opportunity analysis.
+
+<p align="center">
+  <img src="Screenshots/ss1.png" width="48%" />
+  <img src="Screenshots/ss2.png" width="48%" />
+</p>
+
+<p align="center">
+  <img src="Screenshots/ss3.png" width="48%" />
+  <img src="Screenshots/ss4.png" width="48%" />
+</p>
+
+<p align="center">
+  <img src="Screenshots/ss5.png" width="48%" />
+</p>
+
+---
+
+# 📌 Project Outcome
+
+This project demonstrates how Power BI can transform a large global-company dataset into an interactive **financial and strategic decision-support system**.
+
+The dashboard enables users to move from:
+
+**Global Economic Analysis → Country Comparison → Company Analysis → Financial Efficiency → Opportunity Identification**
+
+The project therefore demonstrates practical application of:
+
+- **Business Intelligence**
+- **Financial Analytics**
+- **Data Visualization**
+- **DAX**
+- **Interactive Dashboard Development**
+- **Strategic Decision-Making**
+
+---
+
 # 🔄 Analysis Workflow
 
 ```text
