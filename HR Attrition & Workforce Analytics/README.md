@@ -306,5 +306,3 @@ The dashboard can therefore support HR and management in making more informed de
 ## 🖼️ Dashboard Preview
 
 ![HR Analytics Dashboard](Screenshots/ss.png)
-ion/
-    └── HR_Analytics_Project.pdf
