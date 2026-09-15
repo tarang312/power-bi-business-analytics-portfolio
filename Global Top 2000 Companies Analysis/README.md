@@ -1,4 +1,4 @@
-# 🌎 Global 2000 Companies — Financial & Strategic Analysis
+# Global 2000 Companies - Financial & Strategic Analysis
 
 An interactive **Power BI Business Intelligence project** analyzing the world's 2,000 largest publicly traded companies across 60 countries.
 
@@ -36,32 +36,6 @@ The main objectives of this project are:
 - Identify companies with high business opportunity scores
 - Compare developed and emerging markets
 - Provide data-driven insights for strategic decision-making
-
----
-
-## 📊 Dataset
-
-### Global 2000 Companies Dataset
-
-The dataset contains information about approximately **2,000 publicly traded companies across 60 countries**.
-
-Key financial fields include:
-
-- Company
-- Country
-- Sales
-- Profit
-- Assets
-- Market Value
-- Net Profit Margin
-- Return on Assets
-- Asset Turnover Ratio
-
-The project also uses an **Opportunity Score** to classify companies into:
-
-- High Opportunity
-- Medium Opportunity
-- Low Opportunity
 
 ---
 
