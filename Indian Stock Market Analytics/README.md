@@ -1,4 +1,4 @@
-# 📈 Indian Stock Market Analytics — Nifty Midcap 400
+# 📈 Indian Stock Market Analytics - Nifty Midcap 400
 
 An end-to-end data analytics project that uses **Python-based web scraping, data preparation, and Power BI** to analyze the Indian stock market using data collected from the **Moneycontrol website**.
 
@@ -48,10 +48,22 @@ The primary objectives of this project are:
 | **Excel / CSV** | Data storage and exchange |
 
 ---
-## 🖼️ Dashboard Preview
 
-![Indian Stock Market Analysis - Nifty Midcap 400](Screenshots/ss1.png/ss2.png/ss3.png)
+## 📊 Dashboard Preview
 
+### Market Overview
+
+![Market Overview Dashboard](Screenshots/ss1.png)
+
+### Demand & Supply Gap
+
+![Demand & Supply Gap Dashboard](Screenshots/ss2.png)
+
+### Profit & Loss Analysis
+
+![Profit & Loss Analysis Dashboard](Screenshots/ss3.png)
+
+---
 
 # 🔄 Project Workflow
 
